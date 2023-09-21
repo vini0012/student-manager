@@ -18,7 +18,6 @@ public final class AlunoServiceImpl implements AlunoService {
     @Override
     public List<Aluno> listarAlunos() {
         return alunos;
-        alunos.remove()
     }
 
     @Override
